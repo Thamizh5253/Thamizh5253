@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Thamizharasan P</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer & ML Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thamizh5253&label=Profile%20views&color=0e75b6&style=flat" alt="thamizh5253" /> </p>
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 🔭 I’m currently studying in **MKCE**
 
-- 📝 I regularly write articles on [nil](nil)
+- 🌱 I’m currently learning **Machine Learning,Backend**
 
-- 💬 Ask me about **react,Node,Python**
+- 👨‍💻 All of my projects are available at [https://github.com/Thamizh5253/](https://github.com/Thamizh5253/)
+
+- 💬 Ask me about **react,Node,Python,DSA**
 
 - 📫 How to reach me **thamizh5253@gmail.com**
 
@@ -17,10 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thamizharasan p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thamizharasan p" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thamizharasan-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thamizharasan-p" height="30" width="40" /></a>
 <a href="https://instagram.com/thamizh_5253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thamizh_5253" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/thamizh5253" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thamizh5253" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/thamizh5253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thamizh5253" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thamizh5253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thamizh5253" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/thamizh5253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="thamizh5253" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/thamizh5253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thamizh5253" height="30" width="40" /></a>
 </p>
 
